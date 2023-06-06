@@ -1,0 +1,2 @@
+Supported video resolutions include 1280x720, 1920x1080, 2880x1620, 3840x2160, and higher, as long as they maintain a 16:9 aspect ratio (1.77777).
+For best results, ensure your video meets these specifications.
